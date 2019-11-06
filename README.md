@@ -1,5 +1,7 @@
-# DISCLAIMER:
-This project is discontinued and the codebase is not in a good shape. It has not been maintained actively for a while and I will likely not restart working on it anytime soon.
+# Attention:
+Main author of this project already specified that original repo is unlikely to have active development and maintenance, This (fork ) can be better opensource alternative for Burp Suite. 
+
+Thanks @empijei for the great work of starting it,preaparing very good base and roadmap. 
 
 # Wapty (Web Application Penetration Testing Suite)y
 
